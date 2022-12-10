@@ -10,6 +10,7 @@ import sys
 import fire
 import questionary
 from pathlib import Path
+import csv
 
 from qualifier.utils.fileio import load_csv
 
@@ -108,8 +109,38 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
-    # @TODO: Complete the usability dialog for savings the CSV Files.
-    # YOUR CODE HERE!
+    
+    #
+    header = 'Financial Institution', 'Maximum Loan Amount', 'Maximum Loan:Value', 'Maximum Debt:Income', 'Minimum Credit Score', 'Interest Rate'
+
+    #
+    if len(qualifying_loans)>= 1:
+        
+        #
+        save_file = questionary.confirm('Would you like to save the list of qualifying loans as a CSV file?').ask()
+
+        #
+        if save_file:
+            file_location = questionary.text('Input the location where you would like the file to be saved.').ask()
+            csvpath = Path(file_location)
+            print(f'Saving list of qualifying loans to...{csvpath}')
+
+            #
+            with open(csvpath, 'w', newline= '') as csvfile:
+                csvwriter = csv.writer(csvfile, delimiter=',')
+                csvwriter.writerow(header)
+
+                #
+                for row in qualifying_loans:
+                    csvwriter.writerow(row)
+
+        #
+        else:
+            sys.exit('Thank you for using the loan qualifier application.')
+
+    #
+    else:
+        sys.exit('There are 0 loans that meet your criteria.')
 
 
 def run():
