@@ -5,6 +5,7 @@ This contains a helper function for loading and saving CSV files.
 
 """
 import csv
+from pathlib import Path
 
 
 def load_csv(csvpath):
@@ -28,3 +29,16 @@ def load_csv(csvpath):
         for row in csvreader:
             data.append(row)
     return data
+
+def outputcsv(file_location, qualifying_loans):
+    # Made a header for the CSV file, should the user choose to download it.
+    header = 'Financial Institution', 'Maximum Loan Amount', 'Maximum Loan:Value', 'Maximum Debt:Income', 'Minimum Credit Score', 'Interest Rate'
+    csvpath = Path(file_location)
+    print(f'Saving list of qualifying loans to...{csvpath}')
+    # This is where the qualifyting loans and header will be written to a CSV file in the location they inputted.
+    with open(csvpath, 'w', newline= '') as csvfile:
+        csvwriter = csv.writer(csvfile, delimiter=',')
+        csvwriter.writerow(header)
+        for row in qualifying_loans:
+            csvwriter.writerow(row)
+    return

@@ -24,6 +24,9 @@ from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
 
+from qualifier.utils.fileio import outputcsv
+
+
 
 def load_bank_data():
     """Ask for the file path to the latest banking data and load the CSV file.
@@ -110,8 +113,7 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
     
-    # Made a header for the CSV file, should the user choose to download it.
-    header = 'Financial Institution', 'Maximum Loan Amount', 'Maximum Loan:Value', 'Maximum Debt:Income', 'Minimum Credit Score', 'Interest Rate'
+    
 
     # If there are any qualifying loans, a message will prompt asking the user if they want to download the list as a CSV file.
     if len(qualifying_loans)>= 1:
@@ -120,16 +122,8 @@ def save_qualifying_loans(qualifying_loans):
         # If they choose to save it, a message will prompt asking them where in their system they would like the file to be downloaded.
         if save_file:
             file_location = questionary.text('Input the location where you would like the file to be saved.').ask()
-            csvpath = Path(file_location)
-            print(f'Saving list of qualifying loans to...{csvpath}')
-
-            # This is where the qualifyting loans and header will be written to a CSV file in the location they inputted.
-            with open(csvpath, 'w', newline= '') as csvfile:
-                csvwriter = csv.writer(csvfile, delimiter=',')
-                csvwriter.writerow(header)
-                for row in qualifying_loans:
-                    csvwriter.writerow(row)
-
+            outputcsv(file_location, qualifying_loans)
+            
         # If they choose not to save the list of qualifying loans as a CSV file, the application will prompt a message and exit.
         else:
             sys.exit('Thank you for using the loan qualifier application.')
@@ -137,6 +131,7 @@ def save_qualifying_loans(qualifying_loans):
     # If there are no qualifying loans, a message will prompt and exit the application.
     else:
         sys.exit('There are 0 loans that meet your criteria.')
+
 
 
 def run():
