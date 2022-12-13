@@ -1,0 +1,954 @@
+   50  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Returned_Goods/Unsolved/returned_goods.py
+   51  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   52  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   53  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   54  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   55  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   56  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   57  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   58  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   59  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   60  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   61  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   62  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   63  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   64  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   65  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   66  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   67  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   68  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   69  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   70  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   71  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   72  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   73  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   74  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   75  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   76  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 2/Unsolved/conditional_statement.py"
+   77  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 2/Unsolved/nested_conditionals.py"
+   78  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 2/Unsolved/nested_conditionals.py"
+   79  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 2/Unsolved/nested_conditionals.py"
+   80  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   81  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   82  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   83  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   84  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   85  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   86  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   87  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 2/Unsolved/split_second_homebuying.py"
+   88  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 2/Unsolved/split_second_part_2.py"
+   89  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   90  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   91  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   92  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   93  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   94  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   95  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   96  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   97  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   98  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_The_401k_Shuffle 2/Unsolved/the_401k_shuffle.py"
+   99  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Listing_Assets/Unsolved/listing_assets.py
+  100  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  101  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  102  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  103  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  104  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  105  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  106  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  107  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  108  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  109  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  110  /usr/bin/python3 "/Users/adamjimenez/Downloads/manipulating_lists (1).py"
+  111  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  112  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  113  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  114  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  115  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  116  /usr/bin/python3 /Users/adamjimenez/Downloads/dictionaries.py
+  117  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  118  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  119  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  120  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  121  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  122  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  123  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  124  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  125  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_Conditional_Statement 3/Unsolved/conditional_statement.py"
+  126  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  127  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  128  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  129  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  130  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  131  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Nested_Conditionals 3/Unsolved/nested_conditionals.py"
+  132  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 3/Unsolved/split_second_homebuying.py"
+  133  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 3/Unsolved/split_second_homebuying.py"
+  134  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 3/Unsolved/split_second_homebuying.py"
+  135  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying 3/Unsolved/split_second_homebuying.py"
+  136  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  137  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  138  /usr/bin/python3 "/Users/adamjimenez/Downloads/01_A_Definitive_Buy 2/Unsolved/a_definitive_buy.py"
+  139  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 3/Unsolved/split_second_part_2.py"
+  140  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 3/Unsolved/split_second_part_2.py"
+  141  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 3/Unsolved/split_second_part_2.py"
+  142  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  143  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  144  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  145  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  146  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  147  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  148  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  149  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  150  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  151  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  152  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  153  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  154  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 2/Unsolved/returned_goods.py"
+  155  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  156  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  157  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  158  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  159  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  160  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  161  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  162  /usr/bin/python3 "/Users/adamjimenez/Downloads/02_Returned_Goods 3/Unsolved/returned_goods.py"
+  163  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 4/Solved/split_second_part_2.py"
+  164  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 4/Unsolved/split_second_part_2.py"
+  165  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  166  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  167  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  168  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  169  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  170  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Split_Second_Homebuying_Part_2 5/Unsolved/split_second_part_2.py"
+  171  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  172  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  173  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  174  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  175  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Racking_Up_The_Profit/Solved/racking_up_the_profit.py
+  176  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  177  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  178  /usr/bin/python3 /Users/adamjimenez/Downloads/conditionals.py
+  179  /usr/bin/python3 /Users/adamjimenez/Downloads/conditionals.py
+  180  pip install jupyter lab
+  181  jupyter-lab
+  182  /usr/bin/python3 /Users/adamjimenez/Downloads/functions.py
+  183  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  184  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  185  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  186  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  187  /usr/bin/python3 Untitled-1
+  188  /usr/bin/python3 Untitled-1
+  189  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  190  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  191  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  192  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  193  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  194  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  195  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  196  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  197  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  198  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  199  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  200  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  201  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  202  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  203  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  204  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  205  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  206  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  207  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  208  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  209  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  210  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  211  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  212  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  213  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  214  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  215  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  216  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  217  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  218  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  219  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  220  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  221  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  222  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  223  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  224  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  225  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  226  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  227  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  228  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  229  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  230   /usr/bin/env /usr/bin/python3 /Users/adamjimenez/.vscode/extensions/ms-python.python-2022.18.2/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 49163 -- /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py 
+  231  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  232  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  233  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  234  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  235  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  236  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  237  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  238  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  239  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  240  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  241  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  242  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  243  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  244  /usr/bin/python3 /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  245  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2 2/Unsolved/pathways_to_success_part_2.py"
+  246  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2 2/Unsolved/pathways_to_success_part_2.py"
+  247  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2 2/Unsolved/pathways_to_success_part_2.py"
+  248  /usr/bin/python3 "/Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2 2/Unsolved/pathways_to_success_part_2.py"
+  249  /usr/bin/python3 /Users/adamjimenez/Downloads/Starter_Code/loan_analyzer.py
+  250  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  251  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  252  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  253  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  254  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  255  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  256  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  257  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  258  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  259  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  260  /usr/bin/python3 /Users/adamjimenez/Desktop/loan_analyzer.py
+  261  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  262  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  263  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  264  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  265  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  266  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  267  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  268  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  269  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  270  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  271  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  272  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  273  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  274  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  275  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  276  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  277  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  278  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code 2/loan_analyzer.py"
+  279  /usr/bin/python3 "/Users/adamjimenez/Downloads/Starter_Code/Challenge 1/loan_analyzer.py"
+  280  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  281  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  282  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  283  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  284  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  285  conda activate dev
+  286  pip -V
+  287  pip install fire
+  288  pip install questionary
+  289  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  290  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  291  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  292  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  293  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  294  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  295  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  296  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  297  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  298  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  299  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  300  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  301  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  302  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  303  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  304  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  305  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  306  /usr/bin/python3 /Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data/Solved/qualifier/app.py
+  307  /usr/bin/python3 "/Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data 2/Solved/app.py"
+  308  /usr/bin/python3 "/Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data 2/Solved/app.py"
+  309  /usr/bin/python3 "/Users/adamjimenez/Desktop/02_Loan_Qualifier_Filtering_Data 2/Solved/app.py"
+  310  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  311  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  312  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  313  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  314  /usr/bin/python3 Untitled-1
+  315  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  316  /usr/bin/python3 /Users/adamjimenez/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  317  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  318  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  319  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  320  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  321  /usr/bin/python3 /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  322  python.app.py
+  323  ls
+  324  desktop
+  325  desktop ls
+  326  zh
+  327  cd desktop
+  328  ls
+  329  git clone git@columbia.bootcampcontent.com:columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+  330  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+  331  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+  332  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  333  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  334  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/qualifiers/utils/fileio.py
+  335  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  336  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  337  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  338  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  339  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Solved/qualifiers/app.py
+  340  zsh -- version
+  341  sudo apt install zsh
+  342  conda init zsh
+  343  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  344  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  345  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  346  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/credit_score.py
+  347  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/credit_score.py
+  348  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/credit_score.py
+  349  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/qualifier/filters/credit_score.py
+  350  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  351  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  352  pwd
+  353  pwd
+  354  ls
+  355  cd downloads
+  356  ls download
+  357  ls downloads
+  358  cd desktop
+  359  ls desktop
+  360  pwd
+  361  cd downloads
+  362  ls downloads
+  363  ls
+  364  ls downloads
+  365  cd 01_modularize_your_loan_qualifier_application_part_2
+  366  cd desktop
+  367  ls
+  368  cd 02_Loan_Qualifier_Filtering_Data 2
+  369  cd...
+  370  cd ..
+  371  ls
+  372  cd applications
+  373  ls
+  374  ls applictions
+  375  cd ..
+  376  ls
+  377  ls Applications
+  378  cd Applications
+  379  ls
+  380  ls
+  381  ls
+  382  ls
+  383  ls
+  384  ls
+  385  cd
+  386  cd
+  387  cd
+  388  cd
+  389  cd
+  390  cd
+  391  cd
+  392  cd
+  393  c
+  394  d
+  395  c
+  396  d
+  397  cd
+  398  c
+  399  d
+  400  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  401  ls
+  402  cd desktop
+  403  mkdir test_folder
+  404  ls
+  405  cd test_folder
+  406  touch test_folder
+  407  touchls
+  408  ls
+  409  rm test_folder
+  410  \cd..
+  411  cd ..
+  412  rm - r
+  413  rm -r
+  414  pip install fire
+  415  import fire
+  416  pip install fire
+  417  /usr/bin/python3 /Users/adamjimenez/Desktop/cli.py
+  418  /usr/bin/python3 /Users/adamjimenez/Desktop/cli.py
+  419  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  420  pip show fire
+  421  /usr/bin/python3 /Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  422  pip show numpy
+  423  conda list numpy
+  424  cd python cli.py
+  425  cd desktop
+  426  ls
+  427  cd cli.py
+  428  cd
+  429  pip install questionary
+  430  pip --version
+  431  pip --version
+  432  conda activate base
+  433  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  434  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  435  pip install fire
+  436  python app.py --credit score=750
+  437  python app.py --credit_score=750 --debt=5000 --income=20000
+  438  conda activate base
+  439  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py
+  440  ls python app.py
+  441  python app.py
+  442  conda activate base
+  443  /Users/adamjimenez/opt/anaconda3/bin/python Untitled-1
+  444  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Untitled-1.py
+  445  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Untitled-1.py
+  446  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Untitled-1.py
+  447  python app.py
+  448  ls
+  449  cd downloads
+  450  ls
+  451  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 2
+  452  conda activate base
+  453  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App 2/Unsolved/app.py"
+  454  python app.py
+  455  python app.py --credit score=600 --debt=3200 --income=2000000
+  456  app.py --help
+  457  conda activate base
+  458  conda activate base
+  459  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App 2/Unsolved/app.py"
+  460  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Downloads/01_Adding_Fire_to_the_Loan_Qualifier_App 2/Unsolved/app.py"
+  461  conda activate base
+  462  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/import questionary.py"
+  463  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/import questionary.py"
+  464  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/import questionary.py"
+  465  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/import questionary.py"
+  466  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/import questionary.py"
+  467  conda activate base
+  468  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  469  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  470  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  471  python app.py --credit_score = 600 --debt=60000 --income=358474
+  472  python app.py --credit_score = 600 --debt=60000 --income=358474
+  473  conda activate base
+  474  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  475  python app.py --credit_score=750 --debt=5000 --income=20000
+  476  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  477  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  478  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  479  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  480  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  481  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  482  conda dev activate
+  483  activate conda dev
+  484   conda activate dev
+  485  python app.py
+  486  ls
+  487  cd downloads
+  488  ls
+  489  cd 01_Adding_Fire_to_the_Loan_Qualifier_App 2
+  490  ls
+  491  git config --global user.name Adam Jimenez
+  492  git config --global user.email adamjimenez642@gmail.com
+  493  git config --list
+  494  git config --global user.name AdamJimenez
+  495  git config --list
+  496  cd desktop
+  497  https://github.com/aj-0524/Test_Repo.git
+  498  git clone https://github.com/aj-0524/Test_Repo.git
+  499  cd desktop
+  500  ls
+  501  cd Test_Repo
+  502  git status
+  503  git add README.md
+  504  git status
+  505  cd ..
+  506  ls
+  507  cd Test_Repo
+  508  touch new_file.txt
+  509  ls
+  510  git status
+  511  git add new_file.txt
+  512  git status
+  513  git commit -m "Added text to READ.me and created new_file.text"
+  514  git status
+  515  git push
+  516  git push
+  517  git push
+  518  git push
+  519  git push
+  520  git push
+  521  cd desktop
+  522  cd Test_Repo
+  523  git push
+  524  git push
+  525  git clone https://github.com/aj-0524/Test_Repo.git
+  526  conda activate base
+  527  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/Starter_Code/loan_qualifier_app/app.py
+  528  ./loan_qualifier_app/data/daily_rate_sheet.csv
+  529  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/Starter_Code/loan_qualifier_app/app.py
+  530  conda activate base
+  531  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  532  conda activate base
+  533  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  534  conda activate base
+  535  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  536  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  537  conda activate base
+  538  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  539  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  540  conda activate base
+  541  /Users/adamjimenez/opt/anaconda3/bin/python
+  542  conda activate base
+  543  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  544  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  545  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  546  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  547  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  548  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  549  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+  550  cd desktop
+  551  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+  552  conda activate base
+  553  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  554  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  555  conda activate base
+  556  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  557  conda activate base
+  558  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  559  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  560  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  561  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  562  ls
+  563  cd atm
+  564  ls
+  565  cd atm.py
+  566  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CU-VIRT-FIN-PT-11-2022-U-B/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  567  git push
+  568  git push loancopy.py
+  569  conda activate base
+  570  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/GitHub_Upload_Ch1/loan_analyzer.py
+  571  conda activate base
+  572  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  573  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  574  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  575  conda activate base
+  576  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  577  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  578  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  579  conda activate base
+  580  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  581  conda activate base
+  582  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  583  conda activate base
+  584  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  585  cd desktop
+  586  ls
+  587  cd desktop
+  588  git clone https://github.com/aj-0524/Test_Repo.git
+  589  git push
+  590  cd
+  591  ls
+  592  cd Test_Repo
+  593  git add .
+  594  git commit -m "added new content"
+  595  git push origin main
+  596  git push origin main
+  597  git status
+  598  git add
+  599  cd
+  600  cd desktop
+  601  cd Test_Repo
+  602  git add
+  603  git add .
+  604  git commit -m "added new content"
+  605  git push origin main
+  606  conda activate base
+  607  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  608  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  609  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Downloads/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  610  conda activate base
+  611  /Users/adamjimenez/opt/anaconda3/bin/python Untitled-1
+  612  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  613  python --clothes_picker
+  614  conda dev activate
+  615  activate conda dev
+  616  dev activate conda
+  617  conda dev activate
+  618  conda activate base
+  619  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  620  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  621  python cli.py
+  622  cd
+  623  ls
+  624  cd
+  625  ls
+  626  pip install fire
+  627  conda activate dev
+  628  cd
+  629  ls
+  630  ls
+  631  ls
+  632  cd import fire.py
+  633  python import fire.py
+  634  cd
+  635  cd desktop
+  636  ls
+  637  cd CU-VIRT-FIN-PT-11-2022-U-B
+  638  ls
+  639  cd desktop
+  640  python import_fire.py
+  641  conda activate dev
+  642  cd desktop
+  643  ls
+  644  cd ..
+  645  ls
+  646  python import\ fire.py
+  647  conda deactivate dev
+  648  cd desktop
+  649  ls
+  650  python import_fire.py
+  651  conda activate dev
+  652  python import_fire.py
+  653  cd desktop
+  654  ls
+  655  cd ..
+  656  cd ..
+  657  cd ..
+  658  ls
+  659  cd
+  660  cd users
+  661  cd Untitled-1.py import\ fire.py
+  662  cd desktop
+  663  ls
+  664  cd import_fire.py
+  665  ls
+  666  python import_fire.py
+  667  conda activate dev
+  668  cd
+  669  python import\ fire.py 
+  670  python import\ fire.py
+  671  cd
+  672  cd desktop
+  673  ls
+  674  python import_fire.py 
+  675  conda activate dev
+  676  cd
+  677  ls
+  678  python import\ fire.py
+  679  conda activate base
+  680  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  681  python import_fire.py
+  682  python import fire.py
+  683  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  684  conda activate dev
+  685  ls
+  686  python import\ fire.py --pants=True
+  687  conda activate dev
+  688  python import\ fire.py --pants=True
+  689  conda activate dev
+  690  cd desktop
+  691  ls
+  692  python import_fire.py
+  693  python import_fire.py import_fire.py
+  694  conda activate base
+  695  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  696  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/import fire.py"
+  697  conda dev activate
+  698  conda activate dev
+  699  ls
+  700  python import\ fire.py --pants=True
+  701  cd
+  702  cd desktop
+  703  python import\ fire.py
+  704  python import\ fire.py --pants=True
+  705  conda activate base
+  706  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  707  conda activate base
+  708  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  709  conda activate base
+  710  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  711  cd desktop
+  712  python 01_Adding_Fire_to_the_Loan_Qualifier_App --credit_score=750
+  713  cd desktop
+  714  ls
+  715  python 01_Adding_Fire_to_the_Loan_Qualifier_App --credit_score=750
+  716  conda activate dev
+  717  cd desktop
+  718  conda activate dev
+  719  cd desktop
+  720  cd desktop
+  721  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  722  ls
+  723  cd Unsolved
+  724  ls
+  725  python app.py --credit_score=750
+  726  cd desktop
+  727  python import_questionary.py
+  728  cd desktop
+  729  python import_questionary.py
+  730  python import_questionary.py
+  731  no
+  732  conda activate base
+  733  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  734  cd desktop
+  735  cd 02_Adding_questionary_to_Loan_Qualifier
+  736  cd Unsolved
+  737  python app.py
+  738  git config --list
+  739  cd desktop
+  740  git clone https://github.com/aj-0524/Test_Repo.git
+  741  cd Test_Repo
+  742  git statis
+  743  git status
+  744  git add README.md
+  745  git status
+  746  git commit -m "Added come new text to ensure the qulity of the apop"
+  747  git status
+  748  git push
+  749  git push
+  750  conda activate base
+  751  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  752  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/02_Adding_questionary_to_Loan_Qualifier/Unsolved/app.py
+  753  cd desktop
+  754  cd Test_Repo
+  755  gistatus
+  756  git status
+  757  git add (haha.md)
+  758  git add haha.md
+  759  git status
+  760  commit changes
+  761  git push
+  762  git commit -m "Made a new file named haha.md"
+  763  git status
+  764  git push
+  765  git statis
+  766  git statis
+  767  git status
+  768  git add README.md
+  769  git status
+  770  git commit -m "Updated read.me file along with the repo"
+  771  git status
+  772  git push
+  773  cd desktop
+  774  git clone https://github.com/aj-0524/CH-2-FinTech-Repository.git
+  775  git statis
+  776  cd CH-2-FinTech-Repository
+  777  ls
+  778  cd loan_qualifier_app
+  779  cd ..
+  780  git add loan_qualifier_app
+  781  git status
+  782  git commit -m "Added the subfolder loan_qualifier_app along with it's contents."
+  783  git push
+  784  history 50 > terminal_history.txt
+  785  cd desktop
+  786  git clone https://github.com/aj-0524/CH2-FinTech.git
+  787  git add CH2-FinTech
+  788  cd CH2-FinTech
+  789  git add
+  790  cd desktop
+  791  cd CH2-FinTech
+  792  ls
+  793  git add
+  794  git add .
+  795  git status
+  796  git commit -m "Added the Starter Code file to the repository, along with it's containing files."
+  797  git commit -m "Added Starter Code subfolder to CH2-FinTech, along with it's contents."
+  798  git push
+  799  conda activate base
+  800  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  801  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  802  cd desktop
+  803  cd CH2-FinTech
+  804  ls
+  805  cd Starter_Code
+  806  LS
+  807  cd loan_qualifier_app
+  808  ls
+  809  cd data
+  810  ls
+  811  conda activate base
+  812  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  813  conda activate base
+  814  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  815  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  816  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  817  conda activate base
+  818  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  819  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  820  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/CH2-FinTech/Starter_Code/loan_qualifier_app/app.py
+  821  conda activate base
+  822  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/Starter_Code 2/loan_qualifier_app/app.py"
+  823  cd desktop
+  824  git clone https://github.com/aj-0524/FinTech-Ch.-2.git
+  825  git add FinTech-Ch.-2
+  826  cd FinTech-Ch.-2
+  827  git add Starter_Code\ 2
+  828  git commit -m "Added the starter_code folder along with it's contents."
+  829  git status
+  830  git push
+  831  conda activate base
+  832  /Users/adamjimenez/opt/anaconda3/bin/python "/Users/adamjimenez/Desktop/FinTech-Ch.-2/Starter_Code 2/loan_qualifier_app/app.py"
+  833  conda activate base
+  834  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  835  cd desktop
+  836  git clone https://github.com/aj-0524/FinTech-Ch2.git
+  837  conda activate base
+  838  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/loan_qualifier_app/app.py
+  839  conda activate base
+  840  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/qualifier/app.py
+  841  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/qualifier/app.py
+  842  pwd
+  843  python app.py
+  844  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/qualifier/app.py
+  845  cd desktop
+  846  git clone https://github.com/aj-0524/FinTech-Ch2.git
+  847  cd desktop
+  848  cd loan_qualifier_app
+  849  cd ..
+  850  cd FinTech-Ch2
+  851  mv ../loan_qualifier_app/*
+  852  ls
+  853  ls
+  854  conda activate base
+  855  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/qualifier/app.py
+  856  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/qualifier/app.py
+  857  conda activate base
+  858  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/loan_qualifier_app/qualifier/app.py
+  859  conda activate base
+  860  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/Starter_Code/loan_qualifier_app/app.py
+  861  conda activate base
+  862  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  863  conda activate base
+  864  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  865  conda activate base
+  866  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  867  cd desktop
+  868  cd FinTech-Ch2
+  869  git add ..
+  870  ls
+  871  git add loan_qualifier_app
+  872  git status
+  873  git commit -m "Added the loan_qualifier_app folder along with it's contents."
+  874  git push
+  875  cd desktop
+  876  git clone https://github.com/aj-0524/FinTech-Ch2.git
+  877  git clone https://github.com/aj-0524/FinTech-Ch2.git
+  878  conda activate base
+  879  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  880  conda activate base
+  881  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/app.py
+  882  conda activate base
+  883  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  884  python app.py
+  885  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  886  cd
+  887  ls
+  888  cd desktop
+  889  ls
+  890  cd FinTech-Ch2
+  891  cd loan_qualifier_app
+  892  python app.py
+  893  conda activate base
+  894  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  895  cd desktop
+  896  cd FinTech-Ch2
+  897  git add .
+  898  git status
+  899  git commit -m "Added the loan_qualifier_app folder along with its contents; and made adjustments to README.md.\n"
+  900  git push
+  901  conda activate base
+  902  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  903  conda activate base
+  904  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  905  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  906  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  907  conda activate base
+  908  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  909  cd desktop
+  910  cd FinTech-Ch2
+  911  git add .
+  912  git status
+  913  git commit -m "Created a function that gives the user the option to save the list of qualifying loans to a location of their choice."
+  914  git push
+  915  cd desktop
+  916  cd FinTech-Ch2
+  917  git add .
+  918  git status
+  919  git commit -m "Added comments describing the save_qualifying_loans function and how it runs."
+  920  git push
+  921  cd desktop
+  922  cd FinTech-Ch2
+  923  git add *
+  924  git status
+  925  git commit -m "Updated README.md with descriptions and brief summary of the loan qualifier application.\n'\n"
+  926  git push
+  927  conda activate base
+  928  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  929  conda activate dev
+  930  conda list pandas
+  931  conda list jupyterlab
+  932  python -m ipykernel instal -- user --name dev --display-name "Python (dev)"
+  933  conda activate dev
+  934  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  935  jupyter lab
+  936  conda activate dev
+  937  jupyter lab
+  938  cd
+  939  cd desktop
+  940  cd 01_Importing_the_VIX
+  941  conda activate dev
+  942  jupyter lab
+  943  cd desktop
+  944  cd 02_Headerless_Horsemen
+  945  conda activate dev
+  946  jupyter lab
+  947  cd desktop
+  948  cd 03_IPO_Excitement
+  949  conda activate dev
+  950  jupyter lab
+  951  conda activate base
+  952  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  953  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  954  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  955  conda activate base
+  956  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/qualifier/utils/download_csv.py
+  957  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  958  conda activate base
+  959  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  960  cd desktop
+  961  cd 01_Importing_the_VIX
+  962  conda activate dev
+  963  jupyter lab
+  964  cd
+  965  cd desktop
+  966  cd 02_Headerless_Horsemen
+  967  jupyter lab
+  968  cd ..
+  969  cd 03_IPO_Excitement
+  970  jupyter lab
+  971  cd
+  972  cd ..
+  973  cd
+  974  cd desktop
+  975  jupyter lab
+  976  conda activate dev
+  977  jupyter lab
+  978  cd desktop
+  979  cd 01_Missing_Money
+  980  jupyter lab
+  981  conda activate dev
+  982  cd desktop
+  983  cd 02_Dollars_and_Change
+  984  jupyter lab
+  985  conda activate base
+  986  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  987  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  988  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  989  conda activate base
+  990  /Users/adamjimenez/opt/anaconda3/bin/python /Users/adamjimenez/Desktop/FinTech-Ch2/loan_qualifier_app/app.py
+  991  cd desktop
+  992  cd FinTech-Ch2
+  993  git add .
+  994  git status
+  995  git commit -m "Made changes to the README.md file, modularized the 'output_csv' function into the 'fileio' folder and added an 'images' folder for images in the README."
+  996  git push
+  997  git add .
+  998  git status
+  999  git commit -m "Added final edits to README.md."
+ 1000  git push
+ 1001  cd desktop
+ 1002  git clone https://columbia.bootcampcontent.com/columbia-bootcamp/CU-VIRT-FIN-PT-11-2022-U-B.git
+ 1003  cd desktop
